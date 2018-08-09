@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(34, 34, 34);
+}
+
+.app {
+    /* flex 水平垂直居中 从上向下布局  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    color: #fff;
+}
+
+.header-log {
+    width: 200px;
+    height: 200px;
+    background: url(../../static/img/logo.svg) no-repeat center center;
+    background-size: cover;
+}
+
+.example {
+    margin-top: 20px;
+}
+
+.example-header::after {
+    position: absolute;
+    content: "click here =>";
+    color: rgb(0, 216, 255);
+    margin-top: 56px;
+    margin-left: -320px;
+}
