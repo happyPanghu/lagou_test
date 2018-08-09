@@ -25,4 +25,4 @@ const RouteConf = () => (
   </Router>
 );
 
-export default RouteConf;
+export default RouteConft;
