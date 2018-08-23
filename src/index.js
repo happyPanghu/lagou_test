@@ -25,36 +25,3 @@ if (module.hot) {
         render(App);
     });
 }
-// 今天第一次
-//今天第二次
-//修复bug
-
-//今天第三次
-
-//今天最后一次提交
-
-//临时
-
-//嘻嘻嘻嘻嘻嘻嘻
-//哈哈哈
-
-
-//push一次
-//push一次
-
-//2131
-//sdfsd
-
-
-//新的一次编辑
-
-
-
-
-// tb1
-// again
-
-
-//haha
-//chichi
-//update github
