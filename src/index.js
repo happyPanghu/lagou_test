@@ -24,7 +24,7 @@ if (module.hot) {
     module.hot.accept('./components/App', () => {
         render(App);
     });
-}//5//4//3/2
+}//5//4//3/2//1
 //6
 //7
 //8
